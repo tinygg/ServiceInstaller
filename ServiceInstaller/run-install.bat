@@ -7,7 +7,7 @@ rem 参数依次为 服务名称 可执行文件名称
 rem 定义需要运行的程序路径
 set curExe=%~dp0%2
 rem 定义注册表路径
-set regpath=HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MyService\Parameters\
+set regpath=HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\%1\Parameters\
 rem 定义srvany.exe文件路径
 set sourcePath=%~dp0srvany.exe
 

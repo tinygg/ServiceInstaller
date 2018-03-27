@@ -1,0 +1,11 @@
+C:\Users\chenbo\Documents\Visual Studio 2012\Projects\Console\Console\bin\Debug\Console.exe
+C:\Users\chenbo\Documents\Visual Studio 2012\Projects\Console\Console\bin\Debug\Console.pdb
+C:\Users\chenbo\Documents\Visual Studio 2012\Projects\Console\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\chenbo\Documents\Visual Studio 2012\Projects\Console\Console\obj\Debug\Console.exe
+C:\Users\chenbo\Documents\Visual Studio 2012\Projects\Console\Console\obj\Debug\Console.pdb
+D:\program files\注册服务\Console\Console\Console\bin\Debug\Console.exe
+D:\program files\注册服务\Console\Console\Console\bin\Debug\Console.pdb
+D:\program files\注册服务\Console\Console\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+D:\program files\注册服务\Console\Console\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+D:\program files\注册服务\Console\Console\Console\obj\Debug\Console.exe
+D:\program files\注册服务\Console\Console\Console\obj\Debug\Console.pdb

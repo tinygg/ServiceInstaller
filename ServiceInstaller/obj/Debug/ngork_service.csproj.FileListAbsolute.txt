@@ -1,0 +1,13 @@
+D:\program files\注册服务\Console\Console\Console\bin\Debug\instsrv.exe
+D:\program files\注册服务\Console\Console\Console\bin\Debug\natapp.exe
+D:\program files\注册服务\Console\Console\Console\bin\Debug\srvany.exe
+D:\program files\注册服务\Console\Console\Console\bin\Debug\config.ini
+D:\program files\注册服务\Console\Console\Console\bin\Debug\del.bat
+D:\program files\注册服务\Console\Console\Console\bin\Debug\install.bat
+D:\program files\注册服务\Console\Console\Console\bin\Debug\run-del.bat
+D:\program files\注册服务\Console\Console\Console\bin\Debug\run-install.bat
+D:\program files\注册服务\Console\Console\Console\bin\Debug\Console.exe
+D:\program files\注册服务\Console\Console\Console\bin\Debug\Console.pdb
+D:\program files\注册服务\Console\Console\Console\obj\Debug\ngork_service.csproj.CoreCompileInputs.cache
+D:\program files\注册服务\Console\Console\Console\obj\Debug\Console.exe
+D:\program files\注册服务\Console\Console\Console\obj\Debug\Console.pdb
